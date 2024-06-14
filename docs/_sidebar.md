@@ -11,7 +11,17 @@
     - [Get User Login](#get-user-login)
 
   - [Destinations](#destinations)
-    - [Add Destinations](#add-destinations)
+
     - [Get All Destinations](#get-all-destinations)
     - [Get Destinations By Id](#get-destinations-by-id)
-    - [Delete Destinations](#delete-destinations)
+
+  - [Bookmarks](#Bookmarks)
+
+    - [AddBookmarks](#AddBookmarks)
+    - [UnBookmarks](#UnBookmarks)
+    - [GetDestinationBookmarks](#GetDestinationBookmarks)
+    - [GetDestinationUnbookmarks](#GetDestinationUnbookmarks)
+
+  - [Ratings](#Ratings)
+
+    - [AddRatings](#AddRatings)
