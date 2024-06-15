@@ -155,12 +155,12 @@
   "status": "success",
   "message": "Destinations Bookmarked",
   "data": {
-    "id": "KGgiFCpCAo",
-    "isBookmark": true,
-    "user_id": "pZb1dxKbMw",
-    "name": "user",
-    "dest_id": "Y4wHRJf22j",
-    "name_dest": "Pulau Batur"
+    "id": "P82EaWRlT3",
+    "user_id": "JgdL8hRvlX",
+    "name": "jacky",
+    "dest_id": "06073a4c-e",
+    "dest_name": "GILIMANUK BAY",
+    "isBookmark": true
   }
 }
 ```
