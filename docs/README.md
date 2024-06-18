@@ -4,7 +4,7 @@
 
 <h4 id="base-url">Base URL<h4>
 
-[http://capstone-bali-api.my.id](#)
+[https://capstone-bali-api.my.id](#)
 
 <h4 id="endpoints">Endpoints<h4>
 
